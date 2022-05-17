@@ -80,7 +80,7 @@ def play(word):
 
   # Message if the user loses
   else:
-    print("Sorry you ran out of guesses, the word was " + word + "Better luck next time!")
+    print("Sorry you ran out of guesses, the word was " + word + " Better luck next time!")
 
 # Function making the display from the number of tries remaining
 def display_hangman(tries):
